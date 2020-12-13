@@ -6,3 +6,5 @@ Tang-xiaoai here, I am learning somethings about Github.
 add some information.
 
 remote repository.
+
+test branch -u
